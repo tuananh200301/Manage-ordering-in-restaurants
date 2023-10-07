@@ -1,0 +1,16 @@
+debug/database.o
+debug/main.o
+debug/mainwindow.o
+debug/danhmuc.o
+debug/monan.o
+debug/thucdon.o
+debug/datmon.o
+debug/hoadon.o
+debug/login.o
+debug/quanly.o
+debug/qrc_background.o
+debug/moc_mainwindow.o
+debug/moc_datmon.o
+debug/moc_hoadon.o
+debug/moc_login.o
+debug/moc_quanly.o

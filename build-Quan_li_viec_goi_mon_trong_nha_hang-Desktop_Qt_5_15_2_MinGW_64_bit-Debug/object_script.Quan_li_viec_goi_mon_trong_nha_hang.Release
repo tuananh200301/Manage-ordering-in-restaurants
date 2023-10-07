@@ -1,0 +1,16 @@
+release/database.o
+release/main.o
+release/mainwindow.o
+release/danhmuc.o
+release/monan.o
+release/thucdon.o
+release/datmon.o
+release/hoadon.o
+release/login.o
+release/quanly.o
+release/qrc_background.o
+release/moc_mainwindow.o
+release/moc_datmon.o
+release/moc_hoadon.o
+release/moc_login.o
+release/moc_quanly.o
